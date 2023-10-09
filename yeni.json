@@ -1,0 +1,66 @@
+{
+   "results": [
+      {
+         "gender": "female",
+         "name": {
+            "title": "Mrs",
+            "first": "Natalia",
+            "last":"Damjanovi\xc4\x87"
+         },
+         "location": {
+            "street": {
+               "number": 1853,
+               "name":"Anke Obrenovi\xc4\x87"
+            },
+            "city": "Srbobran",
+            "state": "Pomoravlje",
+            "country": "Serbia",
+            "postcode": 50172,
+            "coordinates": {
+               "latitude": "58.8012",
+               "longitude": "131.4921"
+            },    
+            "timezone": {
+               "offset": "-11:00",
+               "description": "Midway Island, Samoa"
+            }
+         },
+         "email": "natalia.damjanovic@example.com",
+         "login": {
+            "uuid": "a18020c9-7786-43f7-8f6e-69d0d115bc84",
+            "username": "tinygoose649",
+            "password": "happy2",
+            "salt": "EIyn0Db0",
+            "md5": "cbf285699e02bd3889e61bb6c9cd439a",
+            "sha1": "c9c6b74014fdf00d44e03a77da3785a7eec4cf32",
+            "sha256": "cccee18f4b17fddbb2cbd33e03c698c5677fb2599a9bb1bd7305b853eac30a1a"
+         },
+         "dob": {
+            "date": "1992-12-29T17:55:03.529Z",
+            "age": 30
+         },
+         "registered": {
+            "date": "2003-06-01T23:15:27.272Z",
+            "age": 20
+         },
+         "phone": "010-3675-222",
+         "cell": "060-2947-760",
+         "id": {
+            "name": "SID",
+            "value": "261919632"
+         },
+         "picture": {
+            "large": "https://randomuser.me/api/portraits/women/80.jpg",
+            "medium": "https://randomuser.me/api/portraits/med/women/80.jpg",
+            "thumbnail": "https://randomuser.me/api/portraits/thumb/women/80.jpg"
+         },
+         "nat": "RS"
+      }
+   ],
+   "info": {
+      "seed": "cbc5d676e960425a",
+      "results": 1,
+      "page": 1,
+      "version": "1.4"
+   }
+}
