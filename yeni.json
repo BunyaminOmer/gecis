@@ -17,8 +17,7 @@
             "country": "Serbia",
             "postcode": 50172,
             "coordinates": {
-               "latitude": "58.8012",
-               "longitude": "131.4921"
+               "latitude": "58w131.4921"
             },    
             "timezone": {
                "offset": "-11:00",

@@ -46,14 +46,14 @@ class Service:
          print(r["picture"]["medium"], 33)
          print(r["picture"]["large"], 34)
          print(r["nat"], 35)
-         x = tut["info"]["seed"]
-         print(x, 36)
-         y = tut["info"]["results"]
-         print(y, 37)
-         w = tut["info"]["page"]
-         print(w, 38)
-         z = tut["info"]["version"]
-         print(z, 39)
+      x = tut["info"]["seed"]
+      print(x, 36)
+      y = tut["info"]["results"]
+      print(y, 37)
+      w = tut["info"]["page"]
+      print(w, 38)
+      z = tut["info"]["version"]
+      print(z, 39)
 
 nesne = Service()
 nesne.parse_data()
